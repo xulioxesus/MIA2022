@@ -96,7 +96,7 @@ Todavía no, pero en un futuro se está viendo que se pueda traducir en tiempo r
 
 ### Jugar una partida de tenis de mesa (ping-pong) decentemente.
 
-Sí
+- Sí
 
 IA aprende en 90 min en Ping-Pong
 
@@ -108,10 +108,10 @@ Creo que a día de hoy sería complicado si no imposible conducir un coche auton
 sugerencia Otro enlace de sugerencia
 ### Comprar comestibles para una semana en el mercado.
 
-Sí, adjunto enlace de YouTube Enlace
+- Sí, adjunto enlace de YouTube Enlace
 ### Comprar comestibles para una semana en la web.
 
-Sí, puedes pedir a Alexa, Siri la compra de productos por voz o tener la liasta para que realice la compra por ti
+- Sí, puedes pedir a Alexa, Siri la compra de productos por voz o tener la liasta para que realice la compra por ti
 
 Enlace de explicación de cómo se hace
 ### Jugar una partida de bridge decentemente a nivel de competición.
@@ -126,21 +126,21 @@ Google entrenó a la IA recuriendo a un dataset de más de 10.000 pruebas matem�
 Link de la noticia
 ### Escribir intencionadamente una historia divertida.
 
-Sí, GPT-3 puede generar texto a base de una petición, la historia puede tener el género que quieras
+- Sí, GPT-3 puede generar texto a base de una petición, la historia puede tener el género que quieras
 
 Enlace descipción de GPT-3
 ### Ofrecer asesoría legal competente en un área determinada.
 
-Sí, existe. Se llama Amelia, de una compañia de IPsoft, lo usan el bufete de abogados "April King Legal". Usado para atender la solicitudes, convertirse en el primer punto de contacto con los clientes y ofrecer asesoramiento legal gratuito.
+- Sí, existe. Se llama Amelia, de una compañia de IPsoft, lo usan el bufete de abogados "April King Legal". Usado para atender la solicitudes, convertirse en el primer punto de contacto con los clientes y ofrecer asesoramiento legal gratuito.
 
 Enlace de la noticia
 ### Traducir inglés hablado al sueco hablado en tiempo real.
 
-Sí, Fujitsu presentó una IA para la traducción en tiempo real. El nombre es Live Talk. Trabaja actualmente con 19 idiomas.
+- Sí, Fujitsu presentó una IA para la traducción en tiempo real. El nombre es Live Talk. Trabaja actualmente con 19 idiomas.
 
-Enlace 1
+Enlace roto
 
-Enlace 2
+Enlace rotoe 2
 ### Realizar una operación de cirugía compleja.
 
 Sí, STAR(Smart Tissue Autonomous Robot), cpaz de hacerlo solo y sobre tejidos blandos. Creado por un equipo de cientificos del Centro Médico Nacional Infantil en Washington. Presentando mejor desempeño que el de un cirujano
