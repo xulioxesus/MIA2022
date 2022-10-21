@@ -135,7 +135,7 @@ Todavía no, pero en un futuro se está viendo que se pueda traducir en tiempo r
 
 ## Marc Melia
 
-<<<<<<< HEAD
+
 
 
 
@@ -183,7 +183,7 @@ Todavía no, pero en un futuro se está viendo que se pueda traducir en tiempo r
 -Hay una IA capaz de teledirigir una cirujia
     -https://www.lavanguardia.com/tecnologia/actualidad/20210630/7568449/inteligencia-artificial-cirugia-mwc21-de-lacy.html
 
-=======
+
 ### Jugar una partida de tenis de mesa (ping-pong) decentemente.
 
 - Sí
