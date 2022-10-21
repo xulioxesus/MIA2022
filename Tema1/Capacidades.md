@@ -94,54 +94,54 @@ Todavía no, pero en un futuro se está viendo que se pueda traducir en tiempo r
 
 ## Marc Melia
 
-a) Jugar una partida de tenis de mesa (ping-pong) decentemente.
+### Jugar una partida de tenis de mesa (ping-pong) decentemente.
 
 Sí
 
 IA aprende en 90 min en Ping-Pong
 
 
-b) Conducir un coche en el centro del Cairo.
+### Conducir un coche en el centro del Cairo.
 
 Creo que a día de hoy sería complicado si no imposible conducir un coche autonomo con IA en el Cairo. Por problema humano. En el caso que cambiase a todos los vehículos con IA sería otra cosa
 
 sugerencia Otro enlace de sugerencia
-c) Comprar comestibles para una semana en el mercado.
+### Comprar comestibles para una semana en el mercado.
 
 Sí, adjunto enlace de YouTube Enlace
-d) Comprar comestibles para una semana en la web.
+### Comprar comestibles para una semana en la web.
 
 Sí, puedes pedir a Alexa, Siri la compra de productos por voz o tener la liasta para que realice la compra por ti
 
 Enlace de explicación de cómo se hace
-e) Jugar una partida de bridge decentemente a nivel de competición.
+### Jugar una partida de bridge decentemente a nivel de competición.
 
 No solo jugarla decentemente sino ganarla. La startup francesa NukkAI anuncio la noticia de la victoria de la IA en un torneo de París. La IA se llama NooK
 
 Noticia del suceso
-f) Descubrir y demostrar nuevos teoremas matemáticos.
+### Descubrir y demostrar nuevos teoremas matemáticos.
 
 Google entrenó a la IA recuriendo a un dataset de más de 10.000 pruebas matemáticas redactadas por humanos junto a un razonamiento de respaldo. Entregando 3225 teoremas nuevos y probando 1253 de ellos.
 
 Link de la noticia
-g) Escribir intencionadamente una historia divertida.
+### Escribir intencionadamente una historia divertida.
 
 Sí, GPT-3 puede generar texto a base de una petición, la historia puede tener el género que quieras
 
 Enlace descipción de GPT-3
-h) Ofrecer asesoría legal competente en un área determinada.
+### Ofrecer asesoría legal competente en un área determinada.
 
 Sí, existe. Se llama Amelia, de una compañia de IPsoft, lo usan el bufete de abogados "April King Legal". Usado para atender la solicitudes, convertirse en el primer punto de contacto con los clientes y ofrecer asesoramiento legal gratuito.
 
 Enlace de la noticia
-i) Traducir inglés hablado al sueco hablado en tiempo real.
+### Traducir inglés hablado al sueco hablado en tiempo real.
 
 Sí, Fujitsu presentó una IA para la traducción en tiempo real. El nombre es Live Talk. Trabaja actualmente con 19 idiomas.
 
 Enlace 1
 
 Enlace 2
-j) Realizar una operación de cirugía compleja.
+### Realizar una operación de cirugía compleja.
 
 Sí, STAR(Smart Tissue Autonomous Robot), cpaz de hacerlo solo y sobre tejidos blandos. Creado por un equipo de cientificos del Centro Médico Nacional Infantil en Washington. Presentando mejor desempeño que el de un cirujano
 
