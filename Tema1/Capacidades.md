@@ -301,4 +301,78 @@ Sin irnos más lejos de una rápida búsqueda en la web, Fujitsu presenta una [I
 ### Realizar una operación de cirugía compleja
 >>>>>>> de6f3add53641381070d7a5563dc3f5756f6c44e
 
+<<<<<<< HEAD
+# Tema 1 - Capacidades IA
+
+¿Qué puede hacer un sistema de Inteligencia Artificial a día de hoy?
+
+1. Jugar una partida de tenis de mesa (ping-pong) decentemente.
+
+    Si. Hoy en día la IA si puede jugar un partido de ping-pong
+    saliendo airosa.
+
+    [Ver video.](https://youtu.be/IXyKLDNzGGI)
+
+2. Conducir un coche en el centro del Cairo.
+
+    No. El tráfico en la ciudad del Cairo es uno de los
+    más caóticos del mundo. Hasta que no se disponga de una
+    IA que sea capaz de gestionar un entorno tan intensamente
+    cambiante esto será solamente un anhelo
+
+3. Comprar comestibles para una semana en el mercado.
+
+    No. Todavía queda un muchito para poder disponer de una IA
+    que permita hacer una compra en el mercado tal y como la hace
+    el ser humano.
+
+4. Comprar comestibles para una semana en la web.
+
+    Si. De hecho ya se venden frigoríficos que generan la compra a
+    a distancia para reparto en domicilio.
+
+5. Jugar una partida de bridge decentemente a nivel de competición.
+
+    Si. De hecho la IA ya está ganando a campeones mundiales.
+
+    [Ver video.](https://bigdatamagazine.es/la-ia-vence-a-campeones-mundiales-jugando-al-bridge)
+
+
+6. Descubrir y demostrar nuevos teoremas matemáticos.
+
+    Si. Esta faceta de la IA está ayundando en el desarrollo
+    continuo de las matemáticas.
+
+    [Google ha creado una IA matemática que ya ha logrado demostrar más de 1200 teoremas.](https://www.xataka.com/inteligencia-artificial/google-ha-creado-ia-matematica-que-ha-logrado-demostrar-1200-teoremas)
+
+7. Escribir intencionadamente una historia divertida.
+
+    Si. No solamente la escribe, además la ilustra.
+
+    [La primera (y espeluznante) historia escrita e ilustrada con IA.](https://www.enter.co/empresas/colombia-digital/la-primera-y-espeluznante-historia-escrita-e-ilustrada-con-ia/)
+
+    [También es interesante este enlace.](https://www.xataka.com/servicios/quien-esta-detras-chistes-que-cuentan-alexa-asistente-google-home)
+
+
+8. Ofrecer asesoría legal competente en un área determinada.
+
+    Si, aunque parcialmente. La IA ayuda a los abogados a ofrecer
+    asesoría legal.
+
+    [Un despacho de abogados ofrecerá asesoramiento jurídico basado en Inteligencia Artificial.](https://www.legaltoday.com/legaltech/novedades-legaltech/un-despacho-de-abogados-ofrecera-asesoramiento-juridico-basado-en-inteligencia-artificial-2021-04-15/)    
+
+9. Traducir inglés hablado al sueco hablado en tiempo real.
+
+    Me ha sorpendido al verlo en la web, pero si. Parece ser que si
+    que se dispone de una IA capaz de hacerlo.
+
+    [Fujitsu presenta LIVE TALK, un traductor basado en Inteligencia Artificial que traduce 19 idiomas en tiempo real.](https://www.europapress.es/portaltic/software/noticia-fujitsu-presenta-live-talk-traductor-basado-inteligencia-artificial-traduce-19-idiomas-tiempo-real-20180226122819.html)
+
+10. Realizar una operación de cirugía compleja.
+
+    Si. Pero.... ¿quién quiere hacer de cerdo primero?
+
+    [Este robot ha logrado la primera cirugía sin ayuda humana: una compleja intervención gastrointestinal.](https://www.xataka.com/medicina-y-salud/este-robot-ha-logrado-primera-cirugia-ayuda-humana-compleja-intervencion-gastrointestinal)
+=======
 Igual que en el punto anterior, se consiguió que una IA haga una cirugía compleja y delicada, aunque no fue a un ser humano, pero lo consiguió sin ayuda ni intervención humana. He [aquí](https://www.xataka.com/medicina-y-salud/este-robot-ha-logrado-primera-cirugia-ayuda-humana-compleja-intervencion-gastrointestinal) un artículo.
+>>>>>>> de6f3add53641381070d7a5563dc3f5756f6c44e
