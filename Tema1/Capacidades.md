@@ -301,6 +301,7 @@ Sin irnos más lejos de una rápida búsqueda en la web, Fujitsu presenta una [I
 ### Realizar una operación de cirugía compleja
 >>>>>>> de6f3add53641381070d7a5563dc3f5756f6c44e
 
+
 # Tema 1 - Capacidades IA
 
 ¿Qué puede hacer un sistema de Inteligencia Artificial a día de hoy?
@@ -372,6 +373,10 @@ Sin irnos más lejos de una rápida búsqueda en la web, Fujitsu presenta una [I
     Si. Pero.... ¿quién quiere hacer de cerdo primero?
 
     [Este robot ha logrado la primera cirugía sin ayuda humana: una compleja intervención gastrointestinal.](https://www.xataka.com/medicina-y-salud/este-robot-ha-logrado-primera-cirugia-ayuda-humana-compleja-intervencion-gastrointestinal)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7f6660fd7d80ce48e6bc2154bc4774dcbe537425
 Igual que en el punto anterior, se consiguió que una IA haga una cirugía compleja y delicada, aunque no fue a un ser humano, pero lo consiguió sin ayuda ni intervención humana. He [aquí](https://www.xataka.com/medicina-y-salud/este-robot-ha-logrado-primera-cirugia-ayuda-humana-compleja-intervencion-gastrointestinal) un artículo.
 # Capacidades IA
 
