@@ -90,3 +90,6 @@ Todavía no, pero en un futuro se está viendo que se pueda traducir en tiempo r
 ### Realizar una operación de cirugía compleja
 
 [IA teledirige cirugía](https://www.lavanguardia.com/tecnologia/actualidad/20210630/7568449/inteligencia-artificial-cirugia-mwc21-de-lacy.html)
+
+
+## Marc Melia
