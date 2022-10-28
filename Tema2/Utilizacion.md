@@ -8,5 +8,10 @@ Dungeon AI - Luis
 Dream Studio - Ian
 Ostagram - Marc
 OpenCV - Jorge
-Dall-e - Xavi
-Image to Image - Bogdan
+Nvidia Canvas - Bogdan
+ROS - Antonio
+Musenet - Andreu
+Rytr - Andrea
+Amazon Translate - Xavi
+Deepfacelab - Alejandro
+
