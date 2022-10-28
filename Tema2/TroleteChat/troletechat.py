@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import openai
 
@@ -21,7 +22,7 @@ while(True):
         presence_penalty=0
     )
     
-    respuesta = response.choices[0].text.replace('\n','')
+    respuesta = response.choices[0].text.strip('\n')
     print(respuesta)
     
     if (text == "exit"):
