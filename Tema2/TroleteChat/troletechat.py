@@ -22,7 +22,7 @@ while(True):
         presence_penalty=0
     )
     
-    respuesta = response.choices[0].text.strip('\n')
+    respuesta = response.choices[0].text.replace('\n','')
     print(respuesta)
     
     if (text == "exit"):
